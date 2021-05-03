@@ -34,14 +34,7 @@ NameOftheFile.py --q Keyword
 ```
 - Here you need to type the `keyword` which you want to search like dog and olympics
 
-::: warning
+:::
 *Note : Please upvote the project if you like it !!*
 :::
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
-
 
