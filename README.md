@@ -1,9 +1,5 @@
 # SocialMediaAnalytics :wink:
 Building, analysing and developing API for Twitter and Youtube Analytics using Python and R :wink:
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 ## Using Python to extract data from Youtube
 Put a logo of Youtube
