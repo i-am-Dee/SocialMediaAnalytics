@@ -33,6 +33,29 @@ NameOftheFile.py --q Keyword
 ```
 - Here you need to type the `keyword` which you want to search like dog and olympics
 
+# Sentiment analysis
+## Features
+1. Pratice doing sentiment analysis in twitter data
+2. Recall tools and methods we covered realating to social media analytics
+```sh
+textual in social media deliers peoples`s thoughts opionons and emotions
+```
+
+> `Realated concept - Opinion mining `
+
+uses natural laguage processing, text analysis and computational linguguitics
+
+### Polarity
+> postive, negative and netural (+,-,0)
+
+### Subjectivity
+> Text classifed into ine of two classes: objective and sibjective (0 to 1)
+> Depends in context, category and citeria of subjectivity
+
+`textblob` - python library for proccessing textual data
+
+Install packagae from https://pypi.python.org/pypi/textblob
+
 :::
 *Note : Please upvote the project if you like it !!*
 :::
